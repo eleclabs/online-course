@@ -16,7 +16,7 @@ function Header() {
         className="flex gap-1 text-xl font-bold cursor-pointer"
         onClick={() => router.push("/")}
       >
-        <h1 className="text-orange-500 text-xl font-bold ">ROS2 <RobotFilled /></h1>
+        <h1 className="text-orange-500 text-xl font-bold ">ROS2 <RobotFilled /> GNSS</h1>
         
         {/* <h1 className="text-orange-500 text-xl font-bold ">{codeSymbol}</h1> */}
       </div>
