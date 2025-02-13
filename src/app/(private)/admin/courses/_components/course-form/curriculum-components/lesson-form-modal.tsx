@@ -86,9 +86,6 @@ function LessonFormModal({
         />
       </div>
 
-
-
-
       <div className="mt-5">
         <label htmlFor="desc">Lesson Description</label>
         <Input
@@ -100,9 +97,6 @@ function LessonFormModal({
           required
         />
       </div>
-
-
-
 
       {/* todo */}
       <div className="mt-5 flex flex-col">

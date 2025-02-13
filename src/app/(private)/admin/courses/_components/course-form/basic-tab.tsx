@@ -4,7 +4,7 @@ import React from "react";
 export const categories = [
   { label: "Web Development", value: "web-development" },
   { label: "Mobile Development", value: "mobile-development" },
-  { label: "Game Development", value: "game-development" },
+  { label: "Robot Operating System", value: "robot-operating-system" },
   { label: "Data Science", value: "data-science" },
   { label: "Machine Learning", value: "machine-learning" },
   { label: "Artificial Intelligence", value: "artificial-intelligence" },
